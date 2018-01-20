@@ -11,3 +11,7 @@ Instrucciones:
 Descargar la libreria <strong>class.upload.php</strong> en esta pagina:
 
 https://www.verot.net/php_class_upload.htm
+
+Como instalar la aplicación en un servidor local:
+
+https://www.youtube.com/watch?v=1TTHGZoR6us
